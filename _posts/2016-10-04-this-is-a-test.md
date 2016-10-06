@@ -8,7 +8,7 @@ tags:
   - Home Seller Tips
 excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
 enclosure:
-pullquote: This is a bad ass pull quote
+pullquote: This is an example of a pull quote
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
