@@ -51,7 +51,7 @@ images:
   hero_logo_path: 'http://vignette1.wikia.nocookie.net/fantendo/images/7/74/StarFox_lOgO.png/revision/latest?cb=20140321224402'
   hero_text: Ship Flight Log
   hero_background_hex: '#d13f1e'
-  hero_image_path: 'http://yt3.ggpht.com/-BCq6KRXgbeU/VnnRGOVPEII/AAAAAAAAAIg/ZHP_F8ca7vA/w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no/lineup.png'
+  hero_image_path: '/img/corbisiero_bkg.jpg'
 brand_color: '#f15c27'
 theme_color: '#ffffff'
 theme_text_color: '#353535'
