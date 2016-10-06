@@ -1,4 +1,4 @@
-show_testimonials_section: true
+show_testimonials_section: false
 testimonial:
   - quote: "\"We need your help, Star Fox! Andross has declared war! He's invaded the Lylat System and is trying to take over Corneria! Our army alone can't do the job! Hurry, Star Fox!\""
     name: GENERAL PEPPER
