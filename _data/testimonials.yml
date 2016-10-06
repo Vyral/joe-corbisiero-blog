@@ -1,14 +1,5 @@
 show_testimonials_section: false
 testimonial:
-  - quote: "\"We need your help, Star Fox! Andross has declared war! He's invaded the Lylat System and is trying to take over Corneria! Our army alone can't do the job! Hurry, Star Fox!\""
-    name: GENERAL PEPPER
-    audio: 'https://s3.amazonaws.com/vyralmarketing/vyral-marketing/12+Love.mp3'
-  - quote: "\"I've been waiting for you, Star Fox. You know that I control the galaxy. It's foolish to come against me. You will die just like your father.\""
-    name: ANDROSS
-    audio: 'https://s3.amazonaws.com/vyralmarketing/vyral-marketing/12+Love.mp3'
-  - quote: '"Durwin is the best real estate agent I have ever worked with. I have bought and sold many properties in San Francisco, and have found Durwin to always be exceptional in his skill and knowledge as a realtor. He is the ultimate professional - smart, courteous, prompt, reliable and always willing to go the extra mile for his clients. He always has your best interests in mind, not his, which is rare in the real estate world."'
-    name: PETER (SELLER)
-    audio: '#'
-  - quote: '"Durwin was great - friendly, great follow up and not at all pushy. I would recommend him very highly as someone who will work hard on your behalf and who can be trusted."'
-    name: SIMON BROMWELL (BUYER)
-    audio: 'https://s3.amazonaws.com/vyralmarketing/vyral-marketing/12+Love.mp3'
+  - quote:
+    name:
+    audio:
