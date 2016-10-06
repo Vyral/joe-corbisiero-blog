@@ -1,0 +1,71 @@
+audit_header: false
+title: Andross
+description: There is no such thing as a sad unicorn.
+show_custom_links: false
+custom_links:
+  - title:
+    url:
+client:
+  name: Andross
+  about_markdown: >-
+    Andross, sometimes known as Dr. Andross is the main antagonist in the Star
+    Fox series, and is the arch-nemesis of Fox McCloud. He is an evil mad
+    scientist who is highly skilled in technology, telekinesis, and tactics. His
+    forces have tried to take over the Lylat system many times. Exiled to the
+    distant penal planet of Venom for his destructive and dangerous experiments
+    with bio-technology, the mad scientist Andross has recently resurfaced as the
+    supreme commander of a seemingly unstoppable military force.
+
+    <br><br>
+
+    Striking without warning, his invasion fleets have overrun the minimal
+    defenses outposts of the many planets in the Lylat system, and are even now
+    attacking the most populous world in the system, Corneria. As a scientist on
+    Corneria, Andross specialized in bio-technology and space warps. It is
+    theorized that exposure to his own deadly experiments may have driven him
+    mad. In the time since his exile, who knows how his continued experimental
+    work may have affected him?
+  market: Lylat System
+  brand: Nintendo
+  brokerage:
+  address: 123 fake st.
+  phone: 402-402-4002
+  email: sample@email.com
+  url: getvyral.com
+  first_CTA_text: Home Evaluation
+  first_CTA_URL: /homevalue/
+  second_CTA_text: Home Search
+  second_CTA_URL: /homesearch/
+  VR_form: '#'
+socials:
+  review_sm_icons: false
+  facebook_url: '#'
+  linkedin_url: '#'
+  gplus_url: '#'
+  youtube_url: '#'
+  twitter_url: '#'
+  instagram_url:
+  pinterest_url:
+  zillow_url: '#'
+  trulia_url: '#'
+  yelp_url: '#'
+  podcast_url:
+podcast:
+  title:
+  categories:
+  image:
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- market -- Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from --client brand-- - your professional -- market -- Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author:
+images:
+  client_headshot_path: 'http://i.imgur.com/RQeCxbx.png'
+  hero_logo_path: 'http://vignette1.wikia.nocookie.net/fantendo/images/7/74/StarFox_lOgO.png/revision/latest?cb=20140321224402'
+  hero_text: Ship Flight Log
+  hero_background_hex: '#d13f1e'
+  hero_image_path: 'http://yt3.ggpht.com/-BCq6KRXgbeU/VnnRGOVPEII/AAAAAAAAAIg/ZHP_F8ca7vA/w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no/lineup.png'
+brand_color: '#d13f1e'
+theme_color: '#ffffff'
+theme_text_color: '#353535'
+main_body_color: '#ffffff'
+main_body_text_color: '#353535'
