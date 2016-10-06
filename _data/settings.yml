@@ -1,41 +1,42 @@
 audit_header: false
-title: Andross
+title: Whissel Realty Real Estate Video Blog
 description: There is no such thing as a sad unicorn.
 show_custom_links: false
 custom_links:
   - title:
     url:
 client:
-  name: Andross
+  name: Joe Corbisiero
   about_markdown: >-
-    Andross, sometimes known as Dr. Andross is the main antagonist in the Star
-    Fox series, and is the arch-nemesis of Fox McCloud. He is an evil mad
-    scientist who is highly skilled in technology, telekinesis, and tactics. His
-    forces have tried to take over the Lylat system many times. Exiled to the
-    distant penal planet of Venom for his destructive and dangerous experiments
-    with bio-technology, the mad scientist Andross has recently resurfaced as the
-    supreme commander of a seemingly unstoppable military force.
+    What makes Realtor Joe Corbisiero a unique real estate agent is his creative
+    “Art of the Deal” ability to think outside the box and give scope to creative
+    offers which have a very high acceptance rate.
 
-    <br><br>
 
-    Striking without warning, his invasion fleets have overrun the minimal
-    defenses outposts of the many planets in the Lylat system, and are even now
-    attacking the most populous world in the system, Corneria. As a scientist on
-    Corneria, Andross specialized in bio-technology and space warps. It is
-    theorized that exposure to his own deadly experiments may have driven him
-    mad. In the time since his exile, who knows how his continued experimental
-    work may have affected him?
-  market: Lylat System
-  brand: Nintendo
+
+    Realtor Joe Corbisiero like to negotiate prices and make things happen for
+    his clients! The skills Joe has acquired have made even the most particular
+    of his clients extremely satisfied.That is why almost all of Joe’s clients
+    are returning clients and/or referrals.
+
+
+
+    Realtor Joe Corbisiero understands how important the entire experience is for
+    both to the buyer and seller. That’s only one of the many reasons Realtor Joe
+    Corbisiero likes to walk his clients through every step of the way and guide
+    you through the entire process. This includes the art of finding the right
+    deal for you.. Not just the perfect home.. But the right deal!
+  market: San Diego County
+  brand: Whissel Realty
   brokerage:
-  address: 123 fake st.
-  phone: 402-402-4002
-  email: sample@email.com
-  url: getvyral.com
+  address: '3180 University Ave Suite 600<br>San Diego, CA 92104'
+  phone: 760-201-9252
+  email: joesellssandiego@gmail.com
+  url: www.joesellssandiego.com
   first_CTA_text: Home Evaluation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: 'http://joec.whisselrealty.com/home-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: 'http://joec.whisselrealty.com/results-map/'
   VR_form: '#'
 socials:
   review_sm_icons: false
@@ -64,7 +65,7 @@ images:
   hero_text: Ship Flight Log
   hero_background_hex: '#d13f1e'
   hero_image_path: 'http://yt3.ggpht.com/-BCq6KRXgbeU/VnnRGOVPEII/AAAAAAAAAIg/ZHP_F8ca7vA/w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no/lineup.png'
-brand_color: '#d13f1e'
+brand_color: '#f15c27'
 theme_color: '#ffffff'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'
