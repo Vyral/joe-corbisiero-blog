@@ -48,11 +48,11 @@ client:
   VR_form: '#'
 socials:
   review_sm_icons: false
-  facebook_url: '#'
-  linkedin_url: '#'
+  facebook_url: 'https://www.facebook.com/JoeSellsSanDiegocom-250353854985111/?fref=ts/'
+  linkedin_url: 'https://www.linkedin.com/in/joesellssandiego/'
   gplus_url: '#'
-  youtube_url: '#'
-  twitter_url: '#'
+  youtube_url: 'https://www.youtube.com/channel/UCOtLeMobPlvQqvB-3Uom0bg/'
+  twitter_url: 'https://twitter.com/JoeSellsSoCal?lang=en/'
   instagram_url:
   pinterest_url:
   zillow_url: '#'
