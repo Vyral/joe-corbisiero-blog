@@ -19,12 +19,12 @@ client:
   first_CTA_URL: 'http://joec.whisselrealty.com/home-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://joec.whisselrealty.com/results-map/'
-  VR_form: '#'
+  VR_form: 'http://oi.vresp.com?fid=cd24bb15c1'
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/JoeSellsSanDiegocom-250353854985111/?fref=ts/'
   linkedin_url: 'https://www.linkedin.com/in/joesellssandiego/'
-  gplus_url: '#'
+  gplus_url:
   youtube_url: 'https://www.youtube.com/channel/UCOtLeMobPlvQqvB-3Uom0bg/'
   twitter_url: 'https://twitter.com/Whissel_Realty'
   instagram_url:
