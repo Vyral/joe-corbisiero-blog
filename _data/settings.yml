@@ -7,24 +7,12 @@ custom_links:
     url:
 client:
   name: Joe Corbisiero
-  about_markdown: >-
-    What makes Realtor Joe Corbisiero a unique real estate agent is his creative
-    “Art of the Deal” ability to think outside the box and give scope to creative
-    offers which have a very high acceptance rate.
+  about_markdown: |
+  What makes Realtor Joe Corbisiero a unique real estate agent is his creative “Art of the Deal” ability to think outside the box and give scope to creative offers which have a very high acceptance rate.
 
-    <br>
+  Realtor Joe Corbisiero like to negotiate prices and make things happen for his clients! The skills Joe has acquired have made even the most particular of his clients extremely satisfied.That is why almost all of Joe’s clients are returning clients and/or referrals.
 
-    <br>Realtor Joe Corbisiero like to negotiate prices and make things happen
-    for his clients! The skills Joe has acquired have made even the most
-    particular of his clients extremely satisfied.That is why almost all of Joe’s
-    clients are returning clients and/or referrals.
-
-    <br>
-
-    <br>Realtor Joe Corbisiero understands how important the entire experience is
-    for both to the buyer and seller. That’s only one of the many reasons Realtor
-    Joe you through the entire process. This includes the art of finding the
-    right deal for you.. Not just the perfect home.. But the right deal!
+  Realtor Joe Corbisiero understands how important the entire experience is for both to the buyer and seller. That’s only one of the many reasons Realtor Joe you through the entire process. This includes the art of finding the right deal for you.. Not just the perfect home.. But the right deal!'
   market: San Diego County
   license: 'CA BRE #01886351'
   brand: Whissel Realty
@@ -34,17 +22,17 @@ client:
   email: joesellssandiego@gmail.com
   url: www.joesellssandiego.com
   first_CTA_text: Home Evaluation
-  first_CTA_URL: 'http://joec.whisselrealty.com/sell/'
+  first_CTA_URL: 'http://joec.whisselrealty.com/home-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://joec.whisselrealty.com/buy/'
-  VR_form: '#'
+  second_CTA_URL: 'http://joec.whisselrealty.com/results-map/'
+  VR_form: 'http://oi.vresp.com?fid=cd24bb15c1'
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/JoeSellsSanDiegocom-250353854985111/?fref=ts/'
   linkedin_url: 'https://www.linkedin.com/in/joesellssandiego/'
   gplus_url:
   youtube_url: 'https://www.youtube.com/channel/UCOtLeMobPlvQqvB-3Uom0bg/'
-  twitter_url: 'https://twitter.com/JoeSellsSoCal?lang=en/'
+  twitter_url: 'https://twitter.com/Whissel_Realty'
   instagram_url:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/Joe-Corbisiero/'
@@ -55,8 +43,8 @@ podcast:
   title: Whissel Realty Real Estate Podcast
   categories:
   image: /img/corbisiero_podcast.png
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- market -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from --client brand-- - your professional -- market -- Real Estate Agents.'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Diego County Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Whissel Realty - your professional San Diego County Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author:
 images:
