@@ -5,8 +5,8 @@
 	      {% if site.data.settings.client.brand == null and site.data.settings.client.brokerage == null %}
 	        <div class="col-sm-6">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
-	          {% if site.data.settings.client.license_number != null %}
-						<br><span>{{site.data.settings.client.license_number}}</span>
+	          {% if site.data.settings.client.license != null %}
+						<br><span>{{site.data.settings.client.license}}</span>
 							{% endif %}
 	        </div>
 	        <div class="col-sm-6">
@@ -15,8 +15,8 @@
 	      {% elsif site.data.settings.client.brand == null %}
 	        <div class="col-sm-4">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
-						{% if site.data.settings.client.license_number != null %}
-						<br><span>{{site.data.settings.client.license_number}}</span>
+						{% if site.data.settings.client.license != null %}
+						<br><span>{{site.data.settings.client.license}}</span>
 							{% endif %}
 	        </div>
 	        <div class="col-sm-4">
@@ -28,8 +28,8 @@
 	      {% elsif site.data.settings.client.brokerage == null  %}
 	        <div class="col-sm-4">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
-	          {% if site.data.settings.client.license_number != null %}
-						<br><span>{{site.data.settings.client.license_number}}</span>
+	          {% if site.data.settings.client.license != null %}
+						<br><span>{{site.data.settings.client.license}}</span>
 							{% endif %}
 	        </div>
 	        <div class="col-sm-4">
@@ -41,8 +41,8 @@
 	      {% else %}
 	        <div class="col-sm-3">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
-	          {% if site.data.settings.client.license_number != null %}
-						<br><span>{{site.data.settings.client.license_number}}</span>
+	          {% if site.data.settings.client.license != null %}
+						<br><span>{{site.data.settings.client.license}}</span>
 							{% endif %}
 	        </div>
 	        <div class="col-sm-3">
