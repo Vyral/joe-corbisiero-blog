@@ -12,7 +12,7 @@ pullquote: Certain price points are in a seller’s market and others are in a b
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/joe-corbisiero-oct-2-screen-shot-no-play.jpg
+youtube_alternate_image:
 youtube_code: lG8CxXZlyfo
 ---
 
