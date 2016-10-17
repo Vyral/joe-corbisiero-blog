@@ -27,6 +27,6 @@ Whether you are in a buyer’s or seller’s market depends on what price point 
 
 On the other hand, homes priced over $1.25 million are in a buyer’s market because there is significantly more inventory than demand.
 
-As for our market overall, the number of homes on the market has gone up 4% in the last month. On the other end of the spectrum, the number of homes coming off the market, pending sales, are up 18%. As a result, we have a shortage of inventory available on the market. In fact, our inventory levels are down 18% from this time last year.
+As for our market overall, the number of homes on the market has gone up 4% in the last month. On the other end of the spectrum, the number of homes coming off the market, pending sales, are up 18%. As a result, we have a shortage of inventory available on the market. In fact, our inventory levels are down 18% from this time last year.<br/>
 
-<br>If you are thinking of selling your home, now would be a great time to get on the market and cash out. If you have any questions about selling or buying a home in this market, give me a call or send me an email. I would be happy to help you!
+If you are thinking of selling your home, now would be a great time to get on the market and cash out. If you have any questions about selling or buying a home in this market, give me a call or send me an email. I would be happy to help you!
