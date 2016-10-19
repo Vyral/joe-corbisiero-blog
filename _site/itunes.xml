@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Whissel Realty - your professional San Diego County Real Estate Agents.</description>
     <language>en</language>
     <managingEditor></managingEditor>
-    <lastBuildDate>2016-10-19 09:52:03 -0500</lastBuildDate>
+    <lastBuildDate>2016-10-19 09:53:47 -0500</lastBuildDate>
     <media:copyright></media:copyright>
     <media:thumbnail url="localhost:4000/img/corbisiero_podcast.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,8 +25,8 @@
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test</title>
-        <link>localhost:4000/this-is-a-test.html</link>
+        <title>The Latest Trends in the San Diego Real Estate Market</title>
+        <link>localhost:4000/the-latest-trends-in-the-san-diego-real-estate-market.html</link>
         
           <category>Market Update</category>
         
@@ -37,29 +37,29 @@
           <category>Home Seller Tips</category>
         
         <author></author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2016-10-12 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joe+Corbisiero/Joe+Corbisiero+Are+We+in+a+Buyer%27s+or+Seller%27s+Market.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Recently, a lot of people have asked, “Are we in a buyer’s or seller’s market?” I want to answer that question and give you a market update.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Whether you are in a buyer’s or seller’s market depends on what price point you are in. If you are looking for homes between $200,000 and $750,000, you would be in a seller’s market. There is huge demand in this price point, but not much inventory.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+“Certain price points are in a seller’s market and others are in a buyer’s market.”
 
-“This is an example of a pull quote”
+On the other hand, homes priced over $1.25 million are in a buyer’s market because there is significantly more inventory than demand.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+As for our market overall, the number of homes on the market has gone up 4% in the last month. On the other end of the spectrum, the number of homes coming off the market, pending sales, are up 18%. As a result, we have a shortage of inventory available on the market. In fact, our inventory levels are down 18% from this time last year.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you are thinking of selling your home, now would be a great time to get on the market and cash out. If you have any questions about selling or buying a home in this market, give me a call or send me an email. I would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joe+Corbisiero/Joe+Corbisiero+Are+We+in+a+Buyer%27s+or+Seller%27s+Market.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joe+Corbisiero/Joe+Corbisiero+Are+We+in+a+Buyer%27s+or+Seller%27s+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Diego County Area Real Estate Market</itunes:subtitle>
         <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Are we in a buyer’s market or a seller’s market? The answer depends on what price point you are looking at.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
