@@ -2396,3 +2396,6 @@ form select {
     width: 90%; } }
 .site-logo {
   max-width: 40rem; }
+
+.site-title {
+  font-weight: bold; }
