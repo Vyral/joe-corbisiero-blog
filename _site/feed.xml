@@ -5,13 +5,34 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Whissel Realty - your professional San Diego Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Oct 2016 15:15:00 -0500</pubDate>
-    <lastBuildDate>Fri, 28 Oct 2016 15:15:00 -0500</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2016 15:22:40 -0500</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2016 15:22:40 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
+        <title>Check Out My New YouTube Channel</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fuUkciw6vwk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Thanks for stopping by my new YouTube channel! Here, you can find some amazing home seller tips, home buyer tips, and, of course, real estate market updates for the San Diego County area. My goal is to make this channel a resource for all of your real estate needs, so take a look around and discover topics that interest you. If there are any specific topics that you’d like to learn more about, reach out to me and I just might answer your question with a video. To learn more about my new channel, watch this short video.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Oct 2016 00:00:00 -0500</pubDate>
+        <link>localhost:4000/check-out-my-new-youtube-channel.html</link>
+        <guid isPermaLink="true">localhost:4000/check-out-my-new-youtube-channel.html</guid>
+        
+        <category>Market Update</category>
+        
+        <category>Real Estate</category>
+        
+        <category>Buyer Tips</category>
+        
+        <category>Home Seller Tips</category>
+        
+        
+      </item>
+    
+      <item>
         <title>The Latest Trends in the San Diego Real Estate Market</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lG8CxXZlyfo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UTQAnk53_6Y&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Recently, a lot of people have asked, “Are we in a buyer’s or seller’s market?” I want to answer that question and give you a market update.&lt;/p&gt;
 

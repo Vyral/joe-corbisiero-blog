@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/check-out-my-new-youtube-channel.html</loc>
+<lastmod>2016-10-24T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/the-latest-trends-in-the-san-diego-real-estate-market.html</loc>
 <lastmod>2016-10-12T00:00:00-05:00</lastmod>
 </url>
