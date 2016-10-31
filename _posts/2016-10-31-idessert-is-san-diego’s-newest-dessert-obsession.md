@@ -19,7 +19,7 @@ youtube_code: Js8JsA5Cylk
 
 {% include youtube.html %}
 
-It’s another beautiful sunny day in San Diego and our own Joe Corbisiero is back for another episode in our “A Slice of Little Italy” series. Today Joe is at iDessert, one of the newest and best dessert shops in the city. **iDessert is the creation of world-renowned pastry chef Jean- Philippe Maury**, who made a name for himself in Las Vegas as an executive pastry chef and has appeared on TV programs like *The Next Iron Chef and Fabulous Cakes*.
+It’s another beautiful sunny day in San Diego and our own Joe Corbisiero is back for another episode in our “A Slice of Little Italy” series. Today Joe is at iDessert, one of the newest and best dessert shops in the city. **iDessert is the creation of world-renowned pastry chef Jean- Philippe Maury**, who made a name for himself in Las Vegas as an executive pastry chef and has appeared on TV programs like *The Next Iron Chef*and* Fabulous Cakes*.
 
 The concept of iDessert was to create an experience where customers can build their own dessert without actually having to make it themselves. The concept is quite simple in practice:
 
