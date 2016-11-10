@@ -2,10 +2,7 @@
 layout: post
 title: iDessert Is San Diego’s Newest Dessert Obsession
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
+  - iDessert
 excerpt: 'We are back for another installment of our series on Little Italy. Today we are at iDessert, a revolutionary new dessert shop.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joe+Corbisiero/Whissel+Realty+San+Diego+Real+Estate+Have+You+Been+to+iDessert.mp4'
 pullquote: You choose all of your ingredients.
