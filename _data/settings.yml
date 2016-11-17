@@ -7,22 +7,16 @@ custom_links:
     url:
 client:
   name: Joe Corbisiero
-  about_markdown: >
+  about_markdown: |
     What makes Realtor Joe Corbisiero a unique real estate agent is his creative
     “Art of the Deal” ability to think outside the box and give scope to creative
     offers which have a very high acceptance rate.
-
-
-
 
 
     Realtor Joe Corbisiero like to negotiate prices and make things happen for
     his clients! The skills Joe has acquired have made even the most particular
     of his clients extremely satisfied.That is why almost all of Joe’s clients
     are returning clients and/or referrals.
-
-
-
 
 
     Realtor Joe Corbisiero understands how important the entire experience is for
@@ -36,7 +30,7 @@ client:
   address: '3180 University Ave Suite 600<br>San Diego, CA 92104'
   phone: 760-201-9252
   email: joesellssandiego@gmail.com
-  url: www.joesellssandiego.com
+  url: http://joec.whisselrealty.com
   first_CTA_text: Home Evaluation
   first_CTA_URL: 'http://joec.whisselrealty.com/home-valuation/'
   second_CTA_text: Home Search
