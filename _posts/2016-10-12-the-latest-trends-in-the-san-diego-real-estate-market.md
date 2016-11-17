@@ -3,9 +3,6 @@ layout: post
 title: The Latest Trends in the San Diego Real Estate Market
 tags:
   - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: Are we in a buyer’s market or a seller’s market? The answer depends on what price point you are looking at.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joe+Corbisiero/Joe+Corbisiero+Are+We+in+a+Buyer%27s+or+Seller%27s+Market.mp4'
 pullquote: Certain price points are in a seller’s market and others are in a buyer’s market.
