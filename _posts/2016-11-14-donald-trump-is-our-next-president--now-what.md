@@ -3,9 +3,6 @@ layout: post
 title: Donald Trump Is Our Next President. Now What?
 tags:
   - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: 'I foresee many changes in the real estate market now that Donald Trump has been elected president. Most of them, I believe, can be beneficial to homeowners.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joe+Corbisiero/San+Diego+Real+Estate+Trump%27s+Effect+on+the+Real+Estate+Market.mp4'
 pullquote: I expect Trump to use real estate to kick-start the economy.
