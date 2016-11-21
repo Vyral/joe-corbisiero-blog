@@ -2,7 +2,7 @@
 layout: post
 title: Have You Eaten at Civico 1845?
 tags:
-  - Local Restaurants
+  - Civico 1845
 excerpt:
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joe+Corbisiero/San+Diego+Real+Estate+Have+You+Eaten+at+Civico+1845.mp4'
 pullquote:
