@@ -3,7 +3,7 @@ layout: post
 title: Have You Eaten at Civico 1845?
 tags:
   - Civico 1845
-excerpt:
+excerpt: 'Today I’m spotlighting one of my favorite restaurants in the Little Italy neighborhood: Civico 1845. I ate here recently, and I must say, the food blew my mind! Best of all, they have an entire menu dedicated to vegans.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joe+Corbisiero/San+Diego+Real+Estate+Have+You+Eaten+at+Civico+1845.mp4'
 pullquote:
 enclosure_type: video/mp4
