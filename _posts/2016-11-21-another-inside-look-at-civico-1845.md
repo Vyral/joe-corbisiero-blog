@@ -3,7 +3,7 @@ layout: post
 title: Another Inside Look at Civico 1845
 tags:
   - Civico 1845
-excerpt: "For the second part of our spotlight on Civico 1845, we're taking with [name] who is the chef and creator of the vegan menu here at the restaurant. He's going to clue us in on some secrets they have here at Civico 1845."
+excerpt: "For the second part of our spotlight on Civico 1845, we're taking with Pietro Gallo who is the chef and creator of the vegan menu here at the restaurant. He's going to clue us in on some secrets they have here at Civico 1845."
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joe+Corbisiero/San+Diego+Real+Estate+Another+Inside+Look+at+Civico+1845.mp4'
 pullquote:
 enclosure_type: video/mp4
