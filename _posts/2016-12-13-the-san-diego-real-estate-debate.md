@@ -2,10 +2,7 @@
 layout: post
 title: The San Diego Real Estate Debate
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
+  - Real Estate Debate
 excerpt: "I recently appeared on Smarter San Diego where myself and some of the top minds in local real estate discussed some important and timely topics in local real estate. If you've had any thoughts of buying or selling a San Diego home or you've thought about vacation rentals or buying an investment property, you don't want to miss this panel debate."
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joe+Corbisiero/Top+San+Diego+Agents+discuss+hot+topics+directly+affecting+the+San+Diego+Real+Estate+Market.mp4'
 pullquote:
