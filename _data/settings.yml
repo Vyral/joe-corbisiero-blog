@@ -34,7 +34,7 @@ client:
   first_CTA_text: Home Evaluation
   first_CTA_URL: 'http://joec.whisselrealty.com/home-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://joec.whisselrealty.com/results-map/'
+  second_CTA_URL: 'http://www.bestsandiegohomesforsale.com/'
   VR_form: 'http://oi.vresp.com?fid=cd24bb15c1'
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |
