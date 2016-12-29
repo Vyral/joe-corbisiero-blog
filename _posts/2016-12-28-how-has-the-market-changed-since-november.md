@@ -24,10 +24,10 @@ We didn't see anything shocking—we knew that with a new president coming in, p
 
 {% include pullquote.html %}
 
-**As we moved into December, we started to see more pending sales** due to people finally getting back into the market after Trump was elected and seeing that the world didn't stop moving. People still have the American Dream of getting into a home, and I hope you can do it this year or next.&nbsp;
+**As we moved into December, we started to see more pending sales**due to people realizing the world wasn't going to end after Trump was elected. People still have the American Dream of getting into a home, and I hope you can do it this year or next.&nbsp;
 
-So what's happening right now? First, I wanted to address a current concern in our market when it comes to finding homes. Many people use sites like Zillow and Trulia, but did you know that these websites aren't syndicated with our MLS? For these listings to be accurate, an agent would have to go to the site and change it, which never happens. This results in problems like listings showing up for sales when in reality, they're no longer on the market.&nbsp;
+So what's happening right now? First, I wanted to address a current concern in our market when it comes to finding homes. Many people use sites like Zillow and Trulia, but did you know that these websites aren't syndicated with our MLS? For these listings to be accurate, an agent would have to go to the site and change it, which never happens. This results in problems like listings showing up for sale when in reality, they're no longer on the market.&nbsp;
 
-Save yourself some time and grief by hiring a real estate professional who can guide your through the process and give you access to our MLS. That way, you can look at properties that are currently on the market. If you're looking for pocket listings, you definitely need to give me a call. I'm the master pocket listing guy!
+Save yourself some time and grief by hiring a real estate professional who can guide you through the process and give you access to our MLS. That way, you can look at properties that are currently on the market. If you're looking for pocket listings, you definitely need to give me a call. I'm the master pocket listing guy!
 
 If you're interested in these listings or have any questions about real estate in San Diego, give me a call today. I'd love to work with you!
