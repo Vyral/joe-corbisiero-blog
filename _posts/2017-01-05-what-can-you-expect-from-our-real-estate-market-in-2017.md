@@ -28,7 +28,7 @@ Next, I want to talk about affordability. How much can you afford to pay on a mo
 
 Moving on, let’s talk about home prices. Inventory is still low, which means we’re still in a seller’s market. This can depend on what price bracket you’re in, though. In the luxury market, for example, there is more inventory than in the lower price ranges. Overall, though, we’re sitting between 1.8 and 2.3 months’ worth of inventory, and **I think that level will stay low and 2017 will still be a seller’s market**.&nbsp;
 
-Some of this depends on whether we’ll have an influx of move-up buyers but based on the current mortgage rates, that probably won’t happen. It is also unlikely that we will see a lot of new builds, either. Even with President-elect Trump likely to reduce taxes for new builds, that won’t even begin to take place until two years from now.&nbsp;
+Some of this depends on whether we’ll have an influx of move-up buyers, but based on the current mortgage rates, that probably won’t happen. It is also unlikely that we will see a lot of new builds, either. Even with President-elect Trump likely to reduce taxes for new builds, that won’t even begin to take place until two years from now.&nbsp;
 
 Lastly, I want to cover home prices. As previously stated, they’re fairly high right now, and I doubt they’ll decrease anytime soon. We have at least 18 to 24 months of growth, and **we can probably expect a 3% to 4% increase in median price**. This increase will most prominently happen in the spring and summer months when more buyers are searching for homes. This infusion combined with a lack of inventory should naturally lead to a price jump.&nbsp;
 
