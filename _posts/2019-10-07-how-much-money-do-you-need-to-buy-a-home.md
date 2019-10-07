@@ -19,7 +19,7 @@ youtube_code: 20xmxIfe6G4
 
 {% include youtube.html %}
 
-How much money do you need to purchase a home? Find out today.
+<p style="text-align:center;"><em>How much money do you need to purchase a home? Find out today.</em></p>
 
 The median home price for single-family homes in San Diego is between $625,000 and $650,000, but you can still find homes in the $450,000 to $500,000 range. Though it might seem expensive, we’re actually somewhat cheaper than other places in California\!
 
